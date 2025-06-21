@@ -1,0 +1,5 @@
+x=int(input("enter a value of x:"))
+y=int(input("enter a value of y :"))
+z=int(input("enter the value of z:"))
+res=((x>10)and(y<5))or(z==3)
+print("Result",res)
